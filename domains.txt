@@ -1,0 +1,1 @@
+list your FQDN's one on each line
